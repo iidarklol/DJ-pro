@@ -44,8 +44,8 @@ function draw(){
             twenty_min.play();
         }
         else{
-            console.log("Song Name: Peter Pan Song");
-            document.getElementById("song_id").innerHTML = "Song Name: Peter Pan Song";
+            console.log("Song Name: 20 min");
+            document.getElementById("song_id").innerHTML = "Song Name: 20 min";
         }
     }
 
@@ -56,8 +56,8 @@ function draw(){
             Gimme_gimme_song.play();
         }
         else{
-            console.log("Song Name: Harry Potter Theme Song");
-            document.getElementById("song_id").innerHTML = "Song Name: Harry Potter Theme Song";
+            console.log("Song Name: Gimme gimme");
+            document.getElementById("song_id").innerHTML = "Song Name: Gimme gimme";
         }
     }
 }
